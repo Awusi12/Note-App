@@ -1,0 +1,4 @@
+Flask
+sqlalchemy
+flask_login
+sqlite3
